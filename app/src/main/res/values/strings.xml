@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RecyclerViewAndroidApp</string>
+
+    <string-array name="names">
+        <item>Nick</item>
+        <item>Garnet</item>
+        <item>Anya</item>
+        <item>Miss</item>
+        <item>Berenice Bins</item>
+        <item>Samanta</item>
+        <item>Krystal</item>
+        <item>Mack</item>
+        <item>Nigel</item>
+        <item>Qui</item>
+        <item>harum</item>
+        <item>Amet</item>
+        <item>Natus</item>
+        <item>Id</item>
+        <item>Sit</item>
+        <item>Dolorem</item>
+    </string-array>
+</resources>
